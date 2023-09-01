@@ -12,6 +12,9 @@
   <a href="https://www.notion.so/510fc5fe861d4e1b9c41406b7c5c6daa" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
+  <a href="https://dayeon93.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-E34F26?style=for-the-badge&logo=Tistory&logoColor=white">
+  </a>
 </p>
 
 
