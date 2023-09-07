@@ -17,6 +17,13 @@
   </a>
 </p>
 
+### Project URL
+* ‘MEDICAR TEST’ AI 차량 손상 인식 프로그램 개발
+  * https://github.com/Dayeon-Merry/portfolio_Medicar_Test
+* 자연어 처리를 이용한 ‘면접봐 Dream’ AI 챗봇 개발
+  * https://github.com/Dayeon-Merry/portfolio_InterviewDream
+* ‘지켜 Dream’ 모바일 앱 서비스 개발
+  * https://github.com/Dayeon-Merry/portfolio_safeDream
 
 # 🔥 Skills
 
